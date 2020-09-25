@@ -1,0 +1,36 @@
+# Site settings
+name: Amardeep
+description: "Someone who embrace science"
+url: "https://github.com/amardeep-programmer"
+
+
+# Delete the lines you don't need
+# about 5 elements are recomended
+github_username:  amardeep-programmer
+facebook_username: profile.php?id=100012660510113
+linkedin_username: 
+blog_url: "http://weapontechno.blogspot.com/"
+email: amars123456@gmail.com
+public_key_url: ""
+
+
+avatar: yes
+#avatar_img_path: "imgs/avatar.jpg""
+# You can link to your GitHub image. That way it will get updated
+# automatically whenever you change your GitHub profile picture
+avatar_img_path: "https://avatars1.githubusercontent.com/u/2884176?s=460&v=4"
+
+
+front_img: yes
+front_img_path: "/imgs/cool.jpg"
+#front_img_path: "https://external.url/image.jpg"
+
+
+favicon_img: yes
+favicon_img_path: "imgs/favicon.ico"
+#favicon_img_path: "https://external.url/favicon.ico"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
